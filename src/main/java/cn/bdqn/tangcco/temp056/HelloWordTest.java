@@ -12,7 +12,7 @@ public class HelloWordTest {
 
         System.out.println("hello Word");
         String result =null;
-        System.out.println("人比人气死人！");
+        System.out.println("大家好！中国梦唱起来...!");
     }
 
 }
